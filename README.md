@@ -37,13 +37,13 @@ This supports:
 
 ## 🛠️ How it was done
 
-The analysis was conducted using the Deezer dataset, constructing a bipartite network linking users to their preferred genres. This was projected into a genre-to-genre network to measure similarity based on shared listeners :contentReference[oaicite:0]{index=0}.
+The analysis was conducted using the Deezer dataset, constructing a bipartite network linking users to their preferred genres. This was projected into a genre-to-genre network to measure similarity based on shared listeners.
 
-Results showed that “Pop” acts as a central connector across genres, with strong links to Dance and Rock, indicating dominant cross-genre listening patterns (page 3) :contentReference[oaicite:1]{index=1}.
+Results showed that “Pop” acts as a central connector across genres, with strong links to Dance and Rock, indicating dominant cross-genre listening patterns (page 3).
 
-Community detection using the Louvain algorithm revealed four major genre clusters with high internal connectivity but low modularity, suggesting fluid boundaries between genres rather than rigid segments (page 3–4) :contentReference[oaicite:2]{index=2}.
+Community detection using the Louvain algorithm revealed four major genre clusters with high internal connectivity but low modularity, suggesting fluid boundaries between genres rather than rigid segments (page 3–4).
 
-Further analysis compared social and non-social networks, showing that users connected socially share significantly more similar music preferences, with higher clustering and connectivity, indicating strong social influence on consumption patterns (page 4) :contentReference[oaicite:3]{index=3}.
+Further analysis compared social and non-social networks, showing that users connected socially share significantly more similar music preferences, with higher clustering and connectivity, indicating strong social influence on consumption patterns (page 4).
 
 ---
 
